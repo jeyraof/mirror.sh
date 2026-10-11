@@ -1,0 +1,7 @@
+# Ignore everything at the top level...
+/*
+# ...except the tooling we want to version.
+!/.gitignore
+!/README.md
+!/mirror.sh
+!/README.md
